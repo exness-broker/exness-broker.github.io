@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cgi-bin
+sitemap: https://exness-broker.github.io/sitemap.xml
+
+
+
